@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/intro-with-sign-up-form/static/css/main.806cf153.chunk.css",
+    "main.js": "/intro-with-sign-up-form/static/js/main.e7439ad2.chunk.js",
+    "main.js.map": "/intro-with-sign-up-form/static/js/main.e7439ad2.chunk.js.map",
+    "runtime-main.js": "/intro-with-sign-up-form/static/js/runtime-main.5904ac26.js",
+    "runtime-main.js.map": "/intro-with-sign-up-form/static/js/runtime-main.5904ac26.js.map",
+    "static/js/2.b0cd3640.chunk.js": "/intro-with-sign-up-form/static/js/2.b0cd3640.chunk.js",
+    "static/js/2.b0cd3640.chunk.js.map": "/intro-with-sign-up-form/static/js/2.b0cd3640.chunk.js.map",
+    "static/js/3.d2d452c5.chunk.js": "/intro-with-sign-up-form/static/js/3.d2d452c5.chunk.js",
+    "static/js/3.d2d452c5.chunk.js.map": "/intro-with-sign-up-form/static/js/3.d2d452c5.chunk.js.map",
+    "index.html": "/intro-with-sign-up-form/index.html",
+    "static/css/main.806cf153.chunk.css.map": "/intro-with-sign-up-form/static/css/main.806cf153.chunk.css.map",
+    "static/js/2.b0cd3640.chunk.js.LICENSE.txt": "/intro-with-sign-up-form/static/js/2.b0cd3640.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/intro-with-sign-up-form/static/media/bg-intro-mobile.02ce3982.png",
+    "static/media/icon-error.b72f792e.svg": "/intro-with-sign-up-form/static/media/icon-error.b72f792e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5904ac26.js",
+    "static/js/2.b0cd3640.chunk.js",
+    "static/css/main.806cf153.chunk.css",
+    "static/js/main.e7439ad2.chunk.js"
+  ]
+}
